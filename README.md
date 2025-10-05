@@ -1,4 +1,4 @@
-👋 Hi, I'm Omran Abdo Alaziez
+👋 Hi, I'm Omran Abdo AlAziez
 
 I'm a passionate **Full-Stack Developer** with experience in building modern web applications using  
 React, Next.js, Node.js, Express, MongoDB, Nest.js, and TypeScript.  
@@ -16,7 +16,7 @@ Open to collaborating on **open-source projects, innovative platforms, and teams
 <p align="center">
   <a href="https://www.linkedin.com/in/Omran-abdo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/OmranAbdo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:umran@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="umranabdo112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Open to collaborating on **open-source projects, innovative platforms, and teams
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="mailto:umran@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="umranabdo112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/umran-abdo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/UmranAbdo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/OmranAbdo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
