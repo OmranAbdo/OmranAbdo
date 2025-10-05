@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Umran Abdo Alaziez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=100&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**OmranAbdo/OmranAbdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="30"> About Me
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Self-taught Full-Stack Developer.
+- 🎓 Graduate of Alight Coding School (Software Engineering).
+- 💼 Looking for new opportunities in software development.
+- 📄 Check out my [**portfolio**](https://umran-abdo.vercel.app/) for more details.
+- 💬 Ask me anything, I’ll be happy to help!
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> My Skills
+
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> **Programming Languages**
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
+</p>
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"> **Frontend Development**
+
+| Frontend | Framework | UI | Tools |
+|----------|-----------|----|-------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) <br> ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6) | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) <br> ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) | ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) |
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="25"> **Backend Development**
+
+| Runtime / Framework | Database | API & Tools | Deployment |
+|---------------------|----------|--------------|------------|
+| ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) <br> ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) <br> ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) | ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat) <br> ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) | ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) |
+
+## <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="25"> Tools & Operating Systems
+
+| Version Control | Code Editor | Operating Systems |
+|-----------------|-------------|--------------------|
+| ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) <br> ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) | ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) | ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) <br> ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu) <br> ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows) |
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<details>
+<summary>📈 <b>My GitHub Stats</b></summary>
+<p align="center">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=UmranAbdo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+</p>
+</details>
+
+<details>
+<summary>📊 <b>Most Used Languages</b></summary>
+<p align="center">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmranAbdo&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+
+<details>
+<summary>📈 <b>GitHub Streak</b></summary>
+<p align="center">
+    <img align="center" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=UmranAbdo&theme=radical&hide_border=true" />
+</p>
+</details>
+
+<details>
+<summary>📊 <b>GitHub Trophies</b></summary>
+<p align="center">
+    <img align="center" height="195px" src="https://github-profile-trophy.vercel.app/?username=UmranAbdo&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true" />
+</p>
+</details>
+
+<br/>
+
+## 🤝 Connect with Me
+
+<p align="center">
+	<a href="mailto:umran@example.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/umran-abdo/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/UmranAbdo"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+Credit: [Umran Abdo Alaziez](https://github.com/UmranAbdo)  
+Last Edited on: 05/10/2025  
+![Profile views](https://komarev.com/ghpvc/?username=UmranAbdo&color=blue)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
