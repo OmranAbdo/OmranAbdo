@@ -22,11 +22,9 @@ Open to collaborating on **open-source projects, innovative platforms, and teams
 ---
 
 ### ⚙️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,tailwind,mongodb,mysql,python,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,python,git,figma" />
 </p>
-
 <p align="center">
   <b>Responsive Design</b> • <b>Modern UI/UX</b> • <b>Full-Stack Development</b>
 </p>
