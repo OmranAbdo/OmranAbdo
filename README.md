@@ -1,9 +1,9 @@
-👋 Hi, I'm Omran Abdo AlAziez
+👋 Hi, I'm Omran Abdo Alaziez  
 
-I'm a passionate **Full-Stack Developer** with experience in building modern web applications using  
-React, Next.js, Node.js, Express, MongoDB, Nest.js, and TypeScript.  
+I'm a passionate **Full-Stack Developer** with experience in building modern and responsive web applications using  
+React, Next.js, Express, TailwindCSS, MongoDB, and MySQL.  
 
-Previously at **Alight Orgnaztion**, I contributed to developing scalable and responsive components, optimizing APIs, and improving full-stack architecture.  
+Previously at **Alight Organization**, I contributed to developing scalable and responsive components, optimizing APIs, and improving full-stack architecture.  
 
 Skilled in **RESTful APIs, React Hooks, TailwindCSS**, and building user-friendly UIs with modern design principles.  
 
@@ -14,29 +14,31 @@ Open to collaborating on **open-source projects, innovative platforms, and teams
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Omran-abdo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/umran-abdo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/OmranAbdo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="umranabdo112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:umranabdo112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## Skills & Technologies  
+### ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="Nest.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,tailwind,mongodb,mysql,python,git,figma" />
+</p>
+
+<p align="center">
+  <b>Responsive Design</b> • <b>Modern UI/UX</b> • <b>Full-Stack Development</b>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="35" />
 </p>
 
 ---
@@ -44,8 +46,8 @@ Open to collaborating on **open-source projects, innovative platforms, and teams
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmranAbdo&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmranAbdo&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </p>
 
 ---
@@ -53,7 +55,7 @@ Open to collaborating on **open-source projects, innovative platforms, and teams
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="umranabdo112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:umranabdo112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/umran-abdo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/OmranAbdo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
